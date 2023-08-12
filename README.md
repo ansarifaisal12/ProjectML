@@ -13,7 +13,7 @@ The **Buy Predictor Flask App** is a web application that predicts whether a use
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/buy-predictor-flask-app.git
+   git https://github.com/ansarifaisal12/ProjectML.git
    cd buy-predictor-flask-app
 ## 🛠️ Data Modeling and Training
 Prepare a dataset with features like salary, age, and gender, along with corresponding labels indicating whether a user bought from the social network ad.
